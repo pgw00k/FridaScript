@@ -1,0 +1,12 @@
+{
+  "name": "FridaScript",
+  "version": "1.0.0",
+  "description": "Some frida script collection",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pgw00k/FridaScript.git"
+  },
+  "author": "Wings",
+  "license": "MIT",
+  "homepage": "https://github.com/pgw00k/FridaScript#readme"
+}
